@@ -1,0 +1,4 @@
+{:paths ["src" "resources"]
+ :deps  {}
+ :aliases 
+ {:neil {:project {:name aoc-2025/aoc-2025}}}}
